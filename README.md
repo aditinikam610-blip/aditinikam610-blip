@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Aditi Nikam 👋
 
-<!--
-**aditinikam610-blip/aditinikam610-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 🎓 B.Tech Student (2nd Year)
+- 💻 Passionate about Web Development
+- 🌱 Currently learning Java, DSA & Full Stack
+- ⚡ Building projects.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+- HTML, CSS, JavaScript
+- Java
+- Python
+- MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📌 Projects
+- 1. CampusSwap – Student Marketplace
+- 2. Electricity Consumption Prediction using ML
+- 3. N-Queen Visualization
+- 4. EcoTrap Project
+
+---
+
+### 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/aditi-nikam-300419330/
+- Email: aditinikam610@gmail.com
